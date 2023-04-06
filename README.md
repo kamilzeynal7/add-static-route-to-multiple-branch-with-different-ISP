@@ -1,1 +1,1 @@
-# add-static-route-to-multiple-branch-with-different-ISP
+300 market üçün x ip addresinə static route əlavə etmək tələbi var.Bu marketlərdə fərqli İSP-lərdən internet çıxışı alınır. Bu scriptin məqsədi sözügedən işi manual etməmək üçün formalaşdırılıb. ( qeyd edim ki əlavə şərt olaraq Delta telecom olan marketlərə qeyd olunan static route əlavə olunmaması tələb olunurdu ) 
